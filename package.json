@@ -34,9 +34,14 @@
     "grunt": "~0.4.1"
   },
   "peerDependencies": {
-    "grunt": "~0.4.1"
+    "grunt": ">=0.4.0"
   },
   "keywords": [
-    "gruntplugin", "toposort", "requires", "dependencies", "Openlayers", "compiler"
+    "gruntplugin",
+    "toposort",
+    "requires",
+    "dependencies",
+    "Openlayers",
+    "compiler"
   ]
 }
